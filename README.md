@@ -2,7 +2,7 @@
 
 This repository contains the logical design and implementation of a relational database for an e-learning course advisor platform. 
 
-The database was designed and built as part of a university project at Heriot-Watt University.
+The database was designed and built as part of a group project at Heriot-Watt University.
 
 ## Features
 - **Schema Design:** Implements a robust relational schema with independent tables (User, Category, Provider, Instructor), dependent tables (Course, Review), and linking tables for many-to-many relationships (CourseCategory, CourseInstructor).
